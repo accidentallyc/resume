@@ -149,6 +149,7 @@ $(document).on("ready", function(){
 					}
 
 					$("RESUME").set("href","../" + RESUME.cv)
+					$("RESUME2").set("href","../" + RESUME.cv)
 
 			};
 			
