@@ -75,7 +75,7 @@
           "title": "Picture Perfect",
           "position": "Developer",
           "description": "Resume Website with a photography theme",
-          "href": "/PicturePerfect/"
+          "href": "#"
         },
         {
           "type": "website",
