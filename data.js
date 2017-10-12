@@ -92,18 +92,18 @@
         },
       ],
       experiment:[
-        {
-          "type": "experiment",
-          "title": "Steamclock",
-          "position": "Developer",
-          "description": "Novelty HTML Page. The gears and the clock hands are rotating via JS and CSS",
-          "href": "/projects/Steamclock/"
-        },
+        // {
+        //   "type": "experiment",
+        //   "title": "Steamclock",
+        //   "position": "Developer",
+        //   "description": "Novelty HTML Page. The gears and the clock hands are rotating via JS and CSS",
+        //   "href": "/projects/Steamclock/"
+        // },
         {
           "type": "experiment",
           "title": "Wedding Invitation",
           "description": "Invitation to my wedding for those who could not receive a manual invitation",
-          "href": "/projects/TheInvitation/",
+          "href": "https://accidentallyc.github.io/WeddingInvitation/",
           "position": "Developer",
           "history": {
             "stamp": {
