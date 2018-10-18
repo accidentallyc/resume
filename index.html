@@ -2,12 +2,16 @@
 <head>
   <title>Redirecting you to a resume page!</title>
   <script>
-    // in the future this will cycle through different 
-    // resumes
-    var url =  './PicturePerfect/index.html';
-    setTimeout((argument) => {
-      window.location.href = url;
-    },5000)
+    const projects = [
+      'PicturePerfect'
+    ];
+    
+    const randomIndex = Math.floor((Math.random() * 100) % projects.length );
+    const project =  projects[ randomIndex ];
+    
+    setTimeout(() => {
+      window.location.href = `/resume/${project}/index.html`;
+    },500)
   </script>
 </head>
 <body>
@@ -19,6 +23,7 @@
       padding: 0;
       font-family: arial, verdana;
     }
+
     body {
       display: flex;
       justify-content: center;
@@ -32,6 +37,6 @@
     }
   </style>
 
-  <h1>redirecting you to a resume</h1>
+  <h1>redirecting you to a random resume</h1>
 </body>
 </html>
