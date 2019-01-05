@@ -1,12 +1,12 @@
 (function(){
   window.__resumeData__v1 = {
-    status : 'WORKING', /* WORKING, LOOKING */
-    statusText: 'WORKING @ CoInspect',
-    cv:'cassey_chavez_20171003.pdf',
+    status : 'LOOKING', /* WORKING, LOOKING */
+    statusText: 'Looking for @ AKL',
+    cv:'cassey_chavez_20180105.pdf',
     contact : {
-      mobile:   ['+63 998 843 9612'],
+      mobile:   ['+(64) 272461345'],
       email:    ['project.cassey@gmail.com'],
-      workEmail:  ['cassey@coinspectapp.com','cassey@mewe.org'],
+      workEmail:  ['n/a'],
     },
     about: {
       description :`
