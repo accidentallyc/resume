@@ -35,12 +35,14 @@
       ],
 
       concepts: [
+        { level:'intermediate', title:'react'},
         { level:'intermediate', title:'Java Google Appengine'},
         { level:'intermediate', title:'Python Google Appengine'},
         { level:'intermediate', title:'RegExp'},
         { level:'advanced', title:'OAuth 2.0'},
         { level:'advanced', title:'REST APIs'},
         { level:'advanced', title:'Wordpress', highlight: true },
+        { level:'advanced', title:'angular'},
       ],
       
       media: [
@@ -109,6 +111,19 @@
             "stamp": {
               "-time": "11/*/2014",
               "#text": "Estimate Release Date"
+            }
+          }
+        },
+        {
+          "type": "experiment",
+          "title": "React Chat",
+          "description": "Sample project using react, webpack and firebase",
+          "href": "https://accidentallyc.github.io/react-chat-sample/",
+          "position": "Developer",
+          "history": {
+            "stamp": {
+              "-time": "12/*/2018",
+              "#text": "Release Date"
             }
           }
         },
