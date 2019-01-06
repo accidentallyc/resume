@@ -82,7 +82,7 @@
         {
           "type": "website",
           "title": "CFC-CCF Website",
-          "position": "Main Developer",
+          "position": "Principal Developer",
           "description": "Wordpress website with custome made theme, paid for by Couples for Christ Cooperative Foundation",
           "href": "http://cfc-ccf.org/",
           "history": {
@@ -92,6 +92,14 @@
             }
           }
         },
+        {
+          "type": "website",
+          "title": "ArchCon Website",
+          "position": "Developer",
+          "description": "Wordpress website for a comicon like event named ArchCon in Philippines",
+          "href": "http://www.archcon-cebu.com/",
+        },
+
       ],
       experiment:[
         // {
