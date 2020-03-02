@@ -2,7 +2,7 @@
   window.__resumeData__v1 = {
     status : 'LOOKING', /* WORKING, LOOKING */
     statusText: 'Looking for @ AKL',
-    cv:'cassey_chavez_20180105.pdf',
+    cv:'cassey_chavez_20190303.pdf',
     contact : {
       mobile:   ['+(64) 272461345'],
       email:    ['project.cassey@gmail.com'],
